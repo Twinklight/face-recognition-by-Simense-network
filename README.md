@@ -1,4 +1,4 @@
-# face-recognition-by-Simense-network
+# Face Recognition By Siamese network
 face recognition on siamese network with a UI based on TKinter
 
 #### requirement
