@@ -1,6 +1,5 @@
-# Face Recognition By Siamese network
-face recognition on siamese network with a UI based on TKinter
-
+ # Face Recognition By Siamese network
+face recognition on siamese network with a tkinter UI
 #### requirement
 python==3.7.3
 pytorch==1.5.0
